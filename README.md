@@ -1,2 +1,2 @@
-# BlueJect
-Dependency Injection Framework for Unity
+# RootJect
+RootJect is a lightweight Dependency Injection Framework for Unity
